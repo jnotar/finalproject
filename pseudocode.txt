@@ -1,0 +1,32 @@
+Julia Notar
+EEB C234
+Mike Alfaro
+2/13/15
+
+Pseudocode
+
+Project Idea
+
+Compare known vision-related sequences (opsins, rhodopsins, PAX-6) from many echinoderm species, particularly in Echinoidea (e.g. Strongylocentrotus sp., Centrostephanus sp., Dendraster sp., Lytechinus sp., Lovenia sp., Mesocentrotus sp., some Ophiuriod/Asteroid/Holothuroid species, etc.).
+
+Steps: 
+
+-Use GenBank to look up predicted sequences in several echinoderm species, use webscraping.
+#Search Genbank for all Echinoid species + opsin/rhodopsin/PAX-6
+
+-Compare the transcripts for similarity, by BLASTing them against each other.
+#BLAST sequences
+#find a way to automate this in GenBank
+
+#use webscraping to take the % similarity
+#put similarities into a table 
+
+#Use ETE Toolkit in Python to compare sequence similarity visually
+#download sequences from GenBank
+#import into ETE Toolkit
+	#sequences
+	#phylogenetic tree
+	#names
+
+-Compare these results to see if they match the known phylogenetic relationships and/or habitat type.
+
