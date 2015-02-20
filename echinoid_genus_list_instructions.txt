@@ -1,0 +1,18 @@
+Instructions on how to create echinoid genus list with regex
+
+Scrape a list of genuses from Kroh & Smith pdf
+Copy & paste text from Kroh & Smith 2010 Appendix 2 into a text file
+
+Script to use regular expressions to edit into a list of genuses
+
+#! /bin/bash
+
+grep -E "([A-Za-z]{2,30})\s" echinoid_genuses.txt > genus_list.txt
+
+
+###
+chmod u+x echinoid_genus_list.sh
+mv echinoid_genus_list.sh ../scripts
+
+echinoid_genus_list.sh
+
