@@ -1,0 +1,74 @@
+LOCUS       KM276772                1562 bp    DNA     linear   INV 03-FEB-2015
+DEFINITION  Amphiura filiformis opsin 7.1 gene, partial cds.
+ACCESSION   KM276772
+VERSION     KM276772.1  GI:731188462
+KEYWORDS    .
+SOURCE      Amphiura filiformis
+  ORGANISM  Amphiura filiformis
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Asterozoa;
+            Ophiuroidea; Ophiuridea; Ophiurida; Ophiurina; Gnathophiurina;
+            Gnathophiuridea; Amphiuridae; Amphiura.
+REFERENCE   1  (bases 1 to 1562)
+  AUTHORS   Delroisse,J., Ullrich-Luter,E., Ortega-Martinez,O., Dupont,S.,
+            Arnone,M.I., Mallefet,J. and Flammang,P.
+  TITLE     High opsin diversity in a non-visual infaunal brittle star
+  JOURNAL   BMC Genomics 15, 1035 (2014)
+   PUBMED   25429842
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1562)
+  AUTHORS   Delroisse,J., Ullrich-Luter,E., Ortega-Martinez,O., Dupont,S.,
+            Arnone,M.-I., Mallefet,J. and Flammang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-AUG-2014) Marine Organisms Biology and Biomimetics
+            Laboratory, University of Mons, 6 Avenue du Champ de Mars/Pentagone
+            2B, Mons, Hainaut 7000, Belgium
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: CLC Assembly Cell v. 4.0.6
+            Assembly Name         :: 2013-03-28
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1562
+                     /organism="Amphiura filiformis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:82378"
+     mRNA            complement(<359..>600)
+                     /product="opsin 7.1"
+     CDS             complement(<359..>600)
+                     /note="RGR-opsin 1"
+                     /codon_start=3
+                     /product="opsin 7.1"
+                     /protein_id="AIZ50552.1"
+                     /db_xref="GI:731188463"
+                     /translation="HPAKSSSLLVMAIWVNALFWGVAPLNPIRWGRYTVEPFGTGCLL
+                     DFESRDIMYLAYLLVMVVVCFVIPVGAMIYCAINVK"
+ORIGIN      
+        1 gttccacgaa agagaagaac ttggccagat gctgaatcgc ttaacattgc aaggtacagg
+       61 tcgtgtattc caatttcgca aggcccaaaa gttgctccta aaagcacgcg aaaaattttg
+      121 acattttaac ctgaaataag gcataagaaa ggctctacaa gcatctctat tgtatattta
+      181 aggcacagat ttttaattga tgctgcacgg atttttaatc tcactgcacg aacgtgccag
+      241 gatatagaag gcacgttaaa atagctccta tattagctgc tgcttatttt tagttggttg
+      301 ctctctctac attattatcc tctacttttc catcattaca aatcttcccc cttcctacct
+      361 taacgttaat ggcgcaatat atcatagcac ccactggtat gacgaaacac acaaccacca
+      421 tgaccaaaag atatgccaga tacatgatgt cacgactctc gaaatccaat agacacccgg
+      481 taccaaatgg ctccacggta tagcgtcccc aacgaatagg attaagtggt gctactcccc
+      541 aaaacaaggc gttgacccat attgccatca ctaataagct gctggatttg gcgggatgtc
+      601 ctgaaaattc aaaagagtat tcatggcacg tgggaaaatt tcaatcttaa tgagtctatc
+      661 tgtaatttga tctgatctct ttggtgatat caagaataca gatgtcaacg agcacgcaca
+      721 atattgacaa taatcttctt gtcaagatta tctcactatc tcatcaagta ggcgtctatg
+      781 atggcactta tatagatgct tccgtacttt tgcacatgtt agtaaatgag cgttgcaacc
+      841 atcacaacct accaaaatta ccatgcatag gcctatgttc ataactctga ttttgcgttt
+      901 gtgtctgtaa ctttacgatt gtattgtact tgccacataa atgttgtcaa gattatttca
+      961 ccatctcatc aagtggatgg cacttagatg cttccgtacc tttgcacagg ttagtaaatg
+     1021 agcattacaa ccactaccga ccagttacca tcgctcgtaa ctttgatttc gcatttgaga
+     1081 cctttacgat tgtattgtaa ttgcaacatt atgtctactt gtcaagatta tttcaccatc
+     1141 tcatccagtg gatgccactt agaatataaa gtcttcctaa acagctaaat gagctttgtt
+     1201 ctacttttta gtaatttata tttgagtttt ccttagacac agttgccttt ttatcatgca
+     1261 tgtttaaagg cagagaattg agataaacta cttttgtgag caacatatcg tttcatgctt
+     1321 tatttcagta tattctttat gaatttcata gaaaatcggt agtttccttc ctcctaaaac
+     1381 atacaagagt ttggcagaag aagtgtttaa attgcataca caataatatt accttgggtt
+     1441 tcgtggtaga tgtccacagt aagtgctgct aaatttgtca cacttgcaat cccgaacgtc
+     1501 ataccaaaga acgcataggt ttgacacccc gtctctccaa atggccaaga ctcggtaaaa
+     1561 ct
+//
+

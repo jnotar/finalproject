@@ -1,0 +1,53 @@
+LOCUS       KF733997                 554 bp    mRNA    linear   INV 17-NOV-2014
+DEFINITION  Strongylocentrotus intermedius Opsin 4 mRNA, partial cds.
+ACCESSION   KF733997
+VERSION     KF733997.1  GI:576251462
+KEYWORDS    .
+SOURCE      Strongylocentrotus intermedius
+  ORGANISM  Strongylocentrotus intermedius
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Echinoida;
+            Strongylocentrotidae; Strongylocentrotus.
+REFERENCE   1  (bases 1 to 554)
+  AUTHORS   Zhao,C., Ji,N.J., Chang,Y.Q. and Tian,X.F.
+  TITLE     Opsin4, Opsin5 and PAX6 dramatically increase their expression
+            after metamorphosis in the sea urchin Strongylocentrotus
+            intermedius
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 554)
+  AUTHORS   Zhao,C., Ji,N.J., Chang,Y.Q. and Tian,X.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-OCT-2013) Key Laboratory of Mariculture & Stock
+            Enhancement in North China's Sea, Ministry of Agriculture, Dalian
+            Ocean University, 52 Heishijiao Road, Dalian, Liaoning 116023,
+            China
+FEATURES             Location/Qualifiers
+     source          1..554
+                     /organism="Strongylocentrotus intermedius"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7667"
+                     /tissue_type="tube foot"
+                     /dev_stage="adult"
+                     /country="China"
+     CDS             <1..>554
+                     /codon_start=2
+                     /product="Opsin 4"
+                     /protein_id="AHH29342.1"
+                     /db_xref="GI:576251463"
+                     /translation="SSFVVPVTIIIVCFTRIAITVRAHRHELNKMRTKLTEDKDKKHK
+                     SSIRRANKAKTEFQIAKVGFQVTIFYVLSWMPYSIVAVIGQYFDSDLLTPLGTVVPVI
+                     FAKCSAIWNPIIYCLSHEKFNAALKEKLMGMCGIELPSKHRSMGSQESSVTGRRGMHR
+                     QNSSTLSESSVTSTVDQDAIELKD"
+ORIGIN      
+        1 cagcagtttc gtcgtgccag tcaccatcat catcgtctgc ttcacccgga tagcgatcac
+       61 ggtgagggcc catcgacatg agctgaacaa gatgaggaca aaactcacgg aggacaagga
+      121 caagaagcac aagtcgtcca tccgtcgcgc caacaaggcc aagacagagt tccaaattgc
+      181 caaggtcggt ttccaagtca ctatcttcta cgttctctcc tggatgcctt attccatagt
+      241 cgctgtcatt ggacagtatt tcgactcgga tttacttaca cctctaggaa cagtggtacc
+      301 cgtcatcttc gccaagtgtt ccgccatctg gaaccccatc atctattgtc tgtctcatga
+      361 gaagttcaac gcggctttga aggagaagct gatggggatg tgcggcatag agctcccatc
+      421 aaagcaccgt agcatgggat cacaggagtc ttcggtcaca ggacgacgtg gaatgcatcg
+      481 ccagaactcc tccaccctgt cggagtcttc tgtcaccagt accgtagatc aggacgctat
+      541 cgagctgaag gacc
+//
+

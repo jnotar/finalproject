@@ -1,0 +1,82 @@
+LOCUS       KM276765                1973 bp    DNA     linear   INV 03-FEB-2015
+DEFINITION  Amphiura filiformis opsin 4.1 gene, partial cds.
+ACCESSION   KM276765
+VERSION     KM276765.1  GI:731188448
+KEYWORDS    .
+SOURCE      Amphiura filiformis
+  ORGANISM  Amphiura filiformis
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Asterozoa;
+            Ophiuroidea; Ophiuridea; Ophiurida; Ophiurina; Gnathophiurina;
+            Gnathophiuridea; Amphiuridae; Amphiura.
+REFERENCE   1  (bases 1 to 1973)
+  AUTHORS   Delroisse,J., Ullrich-Luter,E., Ortega-Martinez,O., Dupont,S.,
+            Arnone,M.I., Mallefet,J. and Flammang,P.
+  TITLE     High opsin diversity in a non-visual infaunal brittle star
+  JOURNAL   BMC Genomics 15, 1035 (2014)
+   PUBMED   25429842
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1973)
+  AUTHORS   Delroisse,J., Ullrich-Luter,E., Ortega-Martinez,O., Dupont,S.,
+            Arnone,M.-I., Mallefet,J. and Flammang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-AUG-2014) Marine Organisms Biology and Biomimetics
+            Laboratory, University of Mons, 6 Avenue du Champ de Mars/Pentagone
+            2B, Mons, Hainaut 7000, Belgium
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: CLC Assembly Cell v. 4.0.6
+            Assembly Name         :: 2013-03-28
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1973
+                     /organism="Amphiura filiformis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:82378"
+     mRNA            <93..>900
+                     /product="opsin 4.1"
+     CDS             <93..900
+                     /codon_start=2
+                     /product="opsin 4.1"
+                     /protein_id="AIZ50545.1"
+                     /db_xref="GI:731188449"
+                     /translation="CYSLEKLNSISYHRAFAMVGLVWIYSFIWAILPFVGIGEYVLEG
+                     YHVSCTFQYLNQSIRNKIYVGCLYCGAFVFPVSVIAICYWKMYQKVKATRKTLISAVA
+                     GMTGIHRGGCSGKNQSKGVSMRGVGKYTTSKRKSIDDRWRGQKLELQIARVGAFLTIL
+                     FVVSWTPYATVALIGQYINPDLVTPLSQTIPVVFAKCSAAWDPFVYAIKHTSFRSALH
+                     AQFGKKTRQRVRGSNKENDSKAKLDAAGERSSSKSKHLNRDEGELYPLKA"
+ORIGIN      
+        1 tatgtttcta ttgtaatttc atgttgaatt gtgctagatt gtatcgatgt tacataatac
+       61 atctgagttt tgaattaatg ttatattttc aggtgctatt cactagagaa gttaaacagt
+      121 atctcgtatc atcgtgcttt tgctatggtt ggcttggtgt ggatatacag cttcatatgg
+      181 gctattttac cattcgtcgg gatcggggaa tacgtattag aaggatatca tgttagctgt
+      241 acatttcaat atcttaacca atcgatcagg aataagatct atgttgggtg tctatattgt
+      301 ggcgcgttcg tgttccctgt ctccgttatc gcgatatgct attggaaaat gtaccagaaa
+      361 gtaaaggcga cacggaagac tttaataagt gctgtggctg gtatgaccgg aatacataga
+      421 ggtggttgta gcggaaaaaa tcagtcaaag ggtgtcagca tgcgtggtgt tggaaaatat
+      481 actacatcaa aacggaaaag tatcgatgat cggtggagag gacaaaaatt agagttacag
+      541 atagcacggg taggcgcgtt tcttacaatc ctatttgttg tttcatggac accgtatgct
+      601 acggtcgctc tgattggtca atatatcaac ccagatttag tcactccgct atcgcagacg
+      661 attcccgtag tcttcgccaa atgctccgct gcttgggatc catttgtgta cgccataaag
+      721 catactagtt ttcgatctgc gttgcatgct cagtttggta agaagactag acagagggta
+      781 agaggaagca ataaagagaa cgattctaag gcgaaattgg acgctgcagg tgaaaggtca
+      841 tcaagtaaaa gtaaacattt gaatcgtgat gaaggtgaac tgtatccact gaaagcttaa
+      901 gttgaaaaca cggatgttgt ccaaaagaca cgcagctgga atttaaaaaa ataatgttaa
+      961 taaaagaaaa aaatcgggct aaaaacgaca ccatataaat tacaattaac tcgttctcaa
+     1021 taaagaaaaa aatgacacaa tattactctt aattgcctca tatttctgta acatcatagt
+     1081 tcataacttg accacaaatt gtggaatata tgttttgtac tcattatatt cattgttcat
+     1141 tctgtgcagc gcataagaat attggggttg aagaactgtg tcccagacat gggttattct
+     1201 agttgaaatc catactcctt gaatctgtaa tactggggtt gaagatttca aatggagtca
+     1261 acgatggttt atttacgcgt attttgatac gccatactta cagtgttttt aaagataaat
+     1321 aacaattgca aattgcatta aattgaattt agcgcgaaga tattaacggg tttaacatgc
+     1381 cacaatgtta actttaaaat ctggatattt ttctttaaaa acactacttt gttacttata
+     1441 ttgagcgaca tggtatcaaa atacgcgtaa ataaaccatt gttttttcta ggtttaatta
+     1501 ttgtgactgt agtgaatatt tctaagctat aggcgtattt aaacggatgt gttgcttttt
+     1561 gtgaaggttt tgtaagaaat acattatagg aagtaatgtc aaatccatgt cttgttggta
+     1621 tcagcaactt caaataaata aatctgaatc aattcatttg taaactttgc aattttgtaa
+     1681 gtgtacaatg attttgcggt tgaagaactg catgacgaaa tacatgtacg ttataggacg
+     1741 taatggcaaa tcattatttg tatcatcaac tgcaaataaa taaagctgac tcaactcatc
+     1801 tgtaacattt tcaatctgca gaagcacaat tgtcaacttc tgaacaatta aaggaggtct
+     1861 ccggtaatca caacattatg ccttatatgt aatgagaaaa ataattatca agcacgaatc
+     1921 acgtggtttt attcaaaaca aactcatagt aaccataaaa acaaataaaa aca
+//
+

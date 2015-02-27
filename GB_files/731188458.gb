@@ -1,0 +1,66 @@
+LOCUS       KM276770                1057 bp    DNA     linear   INV 03-FEB-2015
+DEFINITION  Amphiura filiformis opsin 4.6 gene, partial cds.
+ACCESSION   KM276770
+VERSION     KM276770.1  GI:731188458
+KEYWORDS    .
+SOURCE      Amphiura filiformis
+  ORGANISM  Amphiura filiformis
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Asterozoa;
+            Ophiuroidea; Ophiuridea; Ophiurida; Ophiurina; Gnathophiurina;
+            Gnathophiuridea; Amphiuridae; Amphiura.
+REFERENCE   1  (bases 1 to 1057)
+  AUTHORS   Delroisse,J., Ullrich-Luter,E., Ortega-Martinez,O., Dupont,S.,
+            Arnone,M.I., Mallefet,J. and Flammang,P.
+  TITLE     High opsin diversity in a non-visual infaunal brittle star
+  JOURNAL   BMC Genomics 15, 1035 (2014)
+   PUBMED   25429842
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1057)
+  AUTHORS   Delroisse,J., Ullrich-Luter,E., Ortega-Martinez,O., Dupont,S.,
+            Arnone,M.-I., Mallefet,J. and Flammang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-AUG-2014) Marine Organisms Biology and Biomimetics
+            Laboratory, University of Mons, 6 Avenue du Champ de Mars/Pentagone
+            2B, Mons, Hainaut 7000, Belgium
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: CLC Assembly Cell v. 4.0.6
+            Assembly Name         :: 2013-03-28
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1057
+                     /organism="Amphiura filiformis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:82378"
+     mRNA            complement(<676..>1057)
+                     /product="opsin 4.6"
+     CDS             complement(<676..>1057)
+                     /note="melanopsin 6"
+                     /codon_start=2
+                     /product="opsin 4.6"
+                     /protein_id="AIZ50550.1"
+                     /db_xref="GI:731188459"
+                     /translation="IPMIIIIYSYTRVVLAVRKSRQTFLDMGKSTAGVTSFRKHKRQV
+                     KNYETAKIGMKLIALFVLSWGPYASVTFIGQFVNPALMFPLLQLIPVVMAKSASVWNP
+                     MVYAISHRRFKRQLRAIFLEMFCAG"
+ORIGIN      
+        1 gacagattta cagagcacag acgtgacatc cttctgcgtg acatctcccg accagtcatg
+       61 tatataaatg agagaacagg ggataaatac ttcgcctata gagggcagca tatcattttt
+      121 aaatcatcgt cgacctttac tgcgatgcac agttagctaa ccctgtatgc cgccctcttt
+      181 tgattactaa ttacgctgtt atcagtttac aaattgatat gctgccctct attatgtaca
+      241 gcattgatcc cttgttcatt atccaaatat ttttttcttt aacaaaagct aatacaactc
+      301 cttagattta aattcttttg tctcctttta tttgatttca aaatgaccgc cattttcatt
+      361 ctaattttcc atataaaaat ggtggcaata cccacgtttg tgatatcaag gattccagag
+      421 taggtcacaa attgtggcaa tgccccccgg caatgcccat gtttgtgatt caagaaaaaa
+      481 aacttaatta taggtaattg ccatcttgac tttcaaaatg gccgacatgt taaatatact
+      541 tctacctata tcgcggattg tgagcaacat ttagtattat caaacagcag cagcttccgc
+      601 ctttgaatga gctctgaatt ttttgaatct agcagcgttg cttgatattt gggacgtagt
+      661 ctcagccaat gacacaccag cacaaaacat ctccaagaaa attgctcgaa gctgtctctt
+      721 aaatctccta tgagatattg cgtataccat ggggttccat accgatgcac ttttagccat
+      781 aacaaccggt attaattgta acaatgggaa cataagtgca gggtttacaa attgtccaat
+      841 gaaagtgaca gaggcgtatg gaccccatga taacacaaat aaagcgatta atttcatgcc
+      901 aatcttagct gtttcgtaat ttttcacctg acgtttgtgt ttcctgaatg aagtcacacc
+      961 tgctgtactc ttgcccatat ctagaaatgt ttgacggctt ttcctgacgg cgagaacaac
+     1021 acgggtataa ctgtatatga ttatgatcat tggtata
+//
+

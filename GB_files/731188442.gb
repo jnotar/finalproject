@@ -1,0 +1,57 @@
+LOCUS       KM276762                 654 bp    DNA     linear   INV 03-FEB-2015
+DEFINITION  Amphiura filiformis opsin 1 gene, partial cds.
+ACCESSION   KM276762
+VERSION     KM276762.1  GI:731188442
+KEYWORDS    .
+SOURCE      Amphiura filiformis
+  ORGANISM  Amphiura filiformis
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Asterozoa;
+            Ophiuroidea; Ophiuridea; Ophiurida; Ophiurina; Gnathophiurina;
+            Gnathophiuridea; Amphiuridae; Amphiura.
+REFERENCE   1  (bases 1 to 654)
+  AUTHORS   Delroisse,J., Ullrich-Luter,E., Ortega-Martinez,O., Dupont,S.,
+            Arnone,M.I., Mallefet,J. and Flammang,P.
+  TITLE     High opsin diversity in a non-visual infaunal brittle star
+  JOURNAL   BMC Genomics 15, 1035 (2014)
+   PUBMED   25429842
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 654)
+  AUTHORS   Delroisse,J., Ullrich-Luter,E., Ortega-Martinez,O., Dupont,S.,
+            Arnone,M.-I., Mallefet,J. and Flammang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-AUG-2014) Marine Organisms Biology and Biomimetics
+            Laboratory, University of Mons, 6 Avenue du Champ de Mars/Pentagone
+            2B, Mons, Hainaut 7000, Belgium
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: CLC Assembly Cell v. v 4.0.6
+            Assembly Name         :: 2013-03-28
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..654
+                     /organism="Amphiura filiformis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:82378"
+     mRNA            <50..>244
+                     /product="opsin 1"
+     CDS             <50..>244
+                     /codon_start=3
+                     /product="opsin 1"
+                     /protein_id="AIZ50542.1"
+                     /db_xref="GI:731188443"
+                     /translation="CEQIVALAAVSMQRCFLVVRPFTARKMTSSWAFLALVITWIYSL
+                     TISLPPAFGWNDYVIEGAGT"
+ORIGIN      
+        1 tattatacat gtacacgtag tatctattaa ttgttttatt gttcaacagg ttgtgagcaa
+       61 atcgtggctc tggcagctgt atccatgcaa cgttgttttc ttgtggtcag gcctttcact
+      121 gccaggaaga tgacatcgtc atgggcattc ttagctcttg ttatcacatg gatttattcc
+      181 cttacaataa gtttgccacc agcctttggt tggaacgatt acgtcattga aggagccgga
+      241 acaggtaaaa tccatagtaa ccagcttaac aaattcttat tagaccaata attattttgc
+      301 agattctgtg ccccctcgag gtgatgaaag tcaaactttt cgcgcgcatt tcaactcaaa
+      361 tagtcatttg aaagatcaaa ttaaggccag agtaatggga gagaccaatc ggttcgcagt
+      421 aaaaaaaaat cagtttgctt tttctgtgga agagagggaa ggttttttgt tgaagagagg
+      481 gaaggttttt ttatttagtt gtttttaatt tatctctttt ttcgaaatat tgaaaaaaaa
+      541 aacgtgtgaa aaaaagcaat tttgccacac tattaagcta aaagttgcac ataatgtaat
+      601 ggtgtatatt tttttttaaa tgagaagact ttcctagact ttgatgtgct ctaa
+//
+

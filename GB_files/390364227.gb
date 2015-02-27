@@ -1,0 +1,70 @@
+LOCUS       XM_003730498            1317 bp    mRNA    linear   INV 07-JUN-2012
+DEFINITION  PREDICTED: Strongylocentrotus purpuratus opsin 4 (LOC579419), mRNA.
+ACCESSION   XM_003730498
+VERSION     XM_003730498.1  GI:390364227
+KEYWORDS    RefSeq.
+SOURCE      Strongylocentrotus purpuratus (purple sea urchin)
+  ORGANISM  Strongylocentrotus purpuratus
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Echinoida;
+            Strongylocentrotidae; Strongylocentrotus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_003578991) annotated using gene prediction method: GNOMON.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+FEATURES             Location/Qualifiers
+     source          1..1317
+                     /organism="Strongylocentrotus purpuratus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7668"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="sperm"
+     gene            1..1317
+                     /gene="LOC579419"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GNOMON. Supporting evidence
+                     includes similarity to: 2 Proteins"
+                     /db_xref="GeneID:579419"
+     CDS             1..1317
+                     /gene="LOC579419"
+                     /codon_start=1
+                     /product="melanopsin"
+                     /protein_id="XP_003730546.1"
+                     /db_xref="GI:390364228"
+                     /db_xref="GeneID:579419"
+                     /translation="MNAVTTALPHGLNKPTIEARWTKSLRTPPNMLIVNLAISDFGMV
+                     ITNFPLMFASTIYNRWLFGDAGCQFYAFCGALFGIMSIANMTAIALDRYYVICWSLEA
+                     VRSVTHRRSMIIIIIVWCYAIFWSIPPFFGVGSYVLEGYGLGCTFDFMTKDLNHYLHV
+                     SFLFASSFVVPVTIIIVCFTRIAITVRAHRHELNKMRTKLTEDKDKKHKSSIRRANKA
+                     KTEFQIAKVGFQVTIFYVLSWMPYSIVAVIGQYFDSDLLTPLGTVVPVIFAKCSAIWN
+                     PIIYCLSHEKFNAALKEKLMGMCGIEIPSKHRSMGSQESSVTGRRGMHRQNSSTLSES
+                     SVTSTVDQDAIELKDRKQGPATVKVQQEKVEGGTYRRNPGDVTFSKDAGVEVDEKRRG
+                     DQGQRDDRVRPQGEGQMDQWSQPPPAPASASAPTPGVNDKEYLTKM"
+ORIGIN      
+        1 atgaatgccg tcacgacagc ccttccgcat ggcttgaata aacctacgat tgaagctcgc
+       61 tggaccaagt ctctgaggac accacctaac atgttgattg tgaatcttgc catcagcgac
+      121 tttggaatgg tcatcactaa ctttcccctc atgtttgctt caactattta caatagatgg
+      181 ctcttcggag atgcgggttg tcagttttat gccttctgtg gagctctgtt tggaatcatg
+      241 tccattgcca acatgactgc catcgccctg gataggtact acgtgatctg ttggtctctg
+      301 gaggctgtgc gttcggtgac tcatcgaaga tctatgatca tcatcatcat agtctggtgc
+      361 tatgccatct tctggtccat cccgcctttc ttcggggtag gttcctatgt cctggaaggc
+      421 tacggactcg gatgcacatt cgatttcatg acaaaggatc tcaatcacta cctgcacgtc
+      481 agtttcctct tcgccagcag tttcgtcgtg ccagtcacca tcatcatcgt ctgcttcacc
+      541 cggatagcga tcacggtgag ggcccatcga catgagctga acaagatgag gacaaaactc
+      601 acggaagaca aggacaagaa gcacaagtcg tccatccgtc gcgccaacaa ggccaagaca
+      661 gagttccaaa ttgccaaggt cggtttccaa gtcactatct tctacgttct ctcctggatg
+      721 ccttattcca tagtcgctgt cattggacag tatttcgact ctgatttact gacacctcta
+      781 ggaacagtgg tgcctgtcat cttcgccaag tgttccgcca tctggaaccc catcatctat
+      841 tgtctgtctc atgagaagtt caacgcagct ttgaaagaga agctcatggg gatgtgcggc
+      901 atagagatcc catcgaagca ccgtagcatg ggatcgcagg agtcttcggt cacaggacga
+      961 cgtggaatgc atcgccagaa ctcctccaca ctgtcggagt cttctgtcac cagtaccgta
+     1021 gatcaggacg ctatcgagct gaaggaccgg aagcagggtc cagctactgt caaggtccag
+     1081 caggagaaag ttgaaggggg tacgtatcgg aggaatcctg gagatgtcac cttttccaaa
+     1141 gacgccggag ttgaggtcga tgagaagagg aggggcgatc agggccagcg tgacgatcgg
+     1201 gtgagaccac aaggtgaggg acagatggac caatggagcc aaccgcctcc tgctcctgct
+     1261 tctgcttctg ctcctactcc tggtgtcaat gataaagaat accttacaaa gatgtag
+//
+

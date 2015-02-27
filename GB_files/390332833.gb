@@ -1,0 +1,79 @@
+LOCUS       XM_778209               1674 bp    mRNA    linear   INV 07-JUN-2012
+DEFINITION  PREDICTED: Strongylocentrotus purpuratus opsin 1 (LOC578019), mRNA.
+ACCESSION   XM_778209
+VERSION     XM_778209.3  GI:390332833
+KEYWORDS    RefSeq.
+SOURCE      Strongylocentrotus purpuratus (purple sea urchin)
+  ORGANISM  Strongylocentrotus purpuratus
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Echinoida;
+            Strongylocentrotidae; Strongylocentrotus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_003576980) annotated using gene prediction method: GNOMON,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Jun 7, 2012 this sequence version replaced gi:115920186.
+FEATURES             Location/Qualifiers
+     source          1..1674
+                     /organism="Strongylocentrotus purpuratus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7668"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /tissue_type="sperm"
+     gene            1..1674
+                     /gene="LOC578019"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GNOMON. Supporting evidence
+                     includes similarity to: 1 mRNA, 1 Protein"
+                     /db_xref="GeneID:578019"
+     CDS             5..1471
+                     /gene="LOC578019"
+                     /codon_start=1
+                     /product="pinopsin"
+                     /protein_id="XP_783302.2"
+                     /db_xref="GI:390332834"
+                     /db_xref="GeneID:578019"
+                     /translation="MNYSTPVMTSTASVSGPSPWTSTLESKAMSNLMTGLVTNVNALS
+                     GIGNETPTTIGLSSLVVPVSRTTYNYLTVYTGFLTIFGILNNGIVMILFARFPSLRHP
+                     INSFLFNVSLSDLIISCLASPFTFASNFAGRWLFGDLGCTLYAFLVFVAGTEQIVILA
+                     ALSIQRCMLVVRPFTAQKMTHRWALFFISLTWIYSLIICVPPLFGWNRYTYEGPGTAC
+                     SVAWNSPSPGDTSYIIFIFVLVLVIPFGIIIFCYGLLVYAVKKISRTQAALSSEAKAD
+                     RKVSKMIFIMILFFLIAWTPYTGFSLYVTFGKNVVITPLAGTFPPFFAKLCTIHNPII
+                     YFLLNKQFKDALIQLFCCGENPFDRDESEHEGRGGRHRHRTAPSATAHIGGRGRASSL
+                     PTATSMLDIPQAASTAASSSGKTQNKESLEKGPSTSETTNKRVFELSSKIQKFEISEK
+                     NNTPSSSELPGASSLSGALMPPRRAMKNQVGCLPPVDN"
+ORIGIN      
+        1 tgtgatgaat tattccaccc cagttatgac ctcgacggcg tccgtctcag gaccatcacc
+       61 gtggacgtcg acgctcgaat ccaaggcgat gtcgaatttg atgacgggcc tagtgacaaa
+      121 cgttaacgcc ttaagtggca ttggaaacga gacgccaact acgataggac taagcagcct
+      181 ggtcgtccct gtatcaagaa caacgtataa ctacctaaca gtctatacag gatttctgac
+      241 catcttcggt atactcaaca acggtatcgt gatgattctc ttcgctcgat tcccatcgtt
+      301 acgtcatccc atcaacagct tcctgttcaa tgtcagtctg agtgacctca tcatatcatg
+      361 cctagcttca cccttcacct tcgcatccaa cttcgcaggc cggtggctgt ttggagatct
+      421 aggatgtacc ttatatgcct tcttagtgtt tgttgctggc actgagcaga ttgtgatctt
+      481 agctgctctc tcaatacaac gatgtatgtt ggtagtgcga ccattcacgg cccagaagat
+      541 gacacatcgg tgggctttat tcttcatctc tctgacatgg atatactctc ttatcatctg
+      601 tgtacctcct ctcttcgggt ggaatcgtta cacttatgag ggtccaggga cagcgtgttc
+      661 tgtagcttgg aactcccctt ctcctggcga taccagttac atcatcttca tcttcgtatt
+      721 ggttctcgtc atccctttcg gcatcatcat cttttgttat ggactccttg tctacgcagt
+      781 caaaaaaata tcgcggaccc aggctgccct gtcatcagaa gctaaagcag atcgtaaagt
+      841 tagcaagatg atcttcatca tgattctgtt tttcctcatc gcatggacgc cttacacggg
+      901 tttctccctc tacgtcacct tcgggaagaa tgtggtgatt actcctctag ccggcacctt
+      961 cccaccattc ttcgccaaac tatgtactat acacaatcct atcatctact ttcttcttaa
+     1021 taaacagttt aaggacgctc tcatacagct cttttgttgt ggtgaaaacc catttgaccg
+     1081 tgatgaatcg gaacacgaag ggcgcggtgg acgacatcga catcgaactg caccttcagc
+     1141 aacagctcac attggtggac gagggcgagc atcaagcctg ccgactgcta catccatgct
+     1201 tgatatccca caggcggctt caaccgccgc gtcatcatcg ggaaagacac agaataaaga
+     1261 gagcctggaa aagggacctt ccacatcgga gacaacgaac aaaagagtgt ttgaactctc
+     1321 gtctaagatt caaaagttcg aaatatctga gaaaaacaat actccgtcat cctcggaact
+     1381 accgggggcg tcatcattgt cgggagcatt gatgcctccg aggagagcaa tgaaaaacca
+     1441 agtcggttgc ttaccgcctg tagataactg aactaagtaa aaacttaaaa taagtgaaag
+     1501 gtgaccgttg ccttctgtgt tgaacaataa caatgttgca acaaacacta ataagctagt
+     1561 gcaggtggtt cactgcctta tttataactt cattatgaat gaatcacaaa ccatatctac
+     1621 gcttcatttt cgcatgttgg catatttgca gtgtttccac tcttcctgaa attt
+//
+

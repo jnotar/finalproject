@@ -1,0 +1,59 @@
+LOCUS       KF733998                 836 bp    mRNA    linear   INV 17-NOV-2014
+DEFINITION  Strongylocentrotus intermedius Opsin 5 mRNA, partial cds.
+ACCESSION   KF733998
+VERSION     KF733998.1  GI:576251481
+KEYWORDS    .
+SOURCE      Strongylocentrotus intermedius
+  ORGANISM  Strongylocentrotus intermedius
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Echinozoa;
+            Echinoidea; Euechinoidea; Echinacea; Echinoida;
+            Strongylocentrotidae; Strongylocentrotus.
+REFERENCE   1  (bases 1 to 836)
+  AUTHORS   Zhao,C., Ji,N.J., Chang,Y.Q. and Tian,X.F.
+  TITLE     Opsin4, Opsin5 and PAX6 dramatically increase their expression
+            after metamorphosis in the sea urchin Strongylocentrotus
+            intermedius
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 836)
+  AUTHORS   Zhao,C., Ji,N.J., Chang,Y.Q. and Tian,X.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-OCT-2013) Key Laboratory of Mariculture & Stock
+            Enhancement in North China's Sea, Ministry of Agriculture, Dalian
+            Ocean University, 52 Heishijiao Road, Dalian, Liaoning 116023,
+            China
+FEATURES             Location/Qualifiers
+     source          1..836
+                     /organism="Strongylocentrotus intermedius"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7667"
+                     /tissue_type="tube foot"
+                     /dev_stage="adult"
+                     /country="China"
+     CDS             <1..>836
+                     /codon_start=3
+                     /product="Opsin 5"
+                     /protein_id="AHH29343.1"
+                     /db_xref="GI:576251482"
+                     /translation="LLVATTGTPLSMVSSFYGRWLFGTNACTFYGFINYYCGCISLNS
+                     LAAISVFRYIIIVRGKTQNNKLSLRSSIYAILVIHLYTLIFSTPPLYGWNRFVLAGYH
+                     TSCDIDFHTKTPLFVSYICYMFFFLFFLPLGLISWSYFKIYLRVSQHSSSMRTSFTHV
+                     TKETNSDEKHAWLEKMKTTQVLHKPVTFLRLKPSFEPRFKPRFKPRFNHRRTASTLLV
+                     TIVVFLFAWFPYCIVSLWVLIGDANSISKLSTTIPSLFAKSSVIYNPLIYAVLNSKFR
+                     KA"
+ORIGIN      
+        1 acctgctcgt tgcgactacg ggcacaccgt tgtccatggt cagtagcttc tacggtcggt
+       61 ggttgttcgg aacgaacgcg tgtacattct acggattcat caattactac tgcggatgca
+      121 tatctttaaa cagcctcgca gccatatccg tgtttcggta catcattatc gtcaggggta
+      181 agactcagaa caataagtta tccctgcgct caagcatcta tgccatctta gtcattcacc
+      241 tttacacgtt gatattctca acgccaccgc tttacggttg gaaccgcttc gttctggctg
+      301 gataccacac cagttgtgac attgatttcc acactaagac tccgcttttt gtgtcataca
+      361 tctgttacat gttcttcttt ctcttcttcc tacctcttgg cctcatctcc tggagttact
+      421 tcaagatcta cctaagagtg agccaacatt cgagctcgat gcggacgagt ttcacccacg
+      481 tcacgaaaga gaccaacagc gacgagaaac acgcgtggct ggagaaaatg aagaccacac
+      541 aggttctgca caaaccggtg acttttctcc gcttaaaacc gagtttcgaa cctaggttca
+      601 aaccgaggtt caaacctagg ttcaaccaca ggagaactgc ttctacactc ctcgttacta
+      661 ttgtagtgtt tttatttgca tggtttcctt actgcattgt ctctctctgg gttctcatag
+      721 gagatgcaaa ttcgatatca aagttgtcca caacgattcc ctctcttttc gcaaagtcat
+      781 cggtcattta caacccgcta atatacgctg tgctgaattc caagttcagg aaggcc
+//
+
