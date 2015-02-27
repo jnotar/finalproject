@@ -12,7 +12,7 @@ from Bio import Entrez
 
 Entrez.email = "jnotar@ucla.edu" #tell Entrez who you are
 
-def function_gb(org, gene): 
+def download_gb(org, gene): 
 	#open my idlist from my saved file of GI #s
     idlist = open("{}_{}_ids.txt".format(org, gene)).read() #open list & read into one string 
     idlist = re.findall(r"\'(\d+)\'", idlist) #get rid of other characters by cutting out each id and putting it in a separate entry in a list
@@ -23,6 +23,6 @@ def function_gb(org, gene):
         file.write(handle.read()) #write to file object
         file.close() #close file
 
-function_gb("Echinodermata", "opsin") #run the function on the idlist of GIs
+download_gb("Echinodermata", "opsin") #run the function on the idlist of GIs
 
 print "Done"
