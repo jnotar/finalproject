@@ -12,11 +12,10 @@ from Bio import Entrez
 
 Entrez.email = "jnotar@ucla.edu" #tell Entrez who you are
 
-#open my idlist from my saved file of GI #s
-idlist = open("echino_ids.txt").read() #open list & read into one string 
-idlist = re.findall(r"\'(\d+)\'", idlist) #get rid of other characters by cutting out each id and putting it in a separate entry in a list
-
-def function(list): 
+def function_gb(org, gene): 
+	#open my idlist from my saved file of GI #s
+    idlist = open("{}_{}_ids.txt".format(org, gene)).read() #open list & read into one string 
+    idlist = re.findall(r"\'(\d+)\'", idlist) #get rid of other characters by cutting out each id and putting it in a separate entry in a list
     for id in idlist:
         file = open("{}.fasta".format(id), "w")
         	#change "{}.fasta" to "{}.txt" if you want to save it as a text file. But why? 
