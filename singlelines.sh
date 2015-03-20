@@ -5,3 +5,6 @@ awk '/^>/{print s? s"\n"$0:$0;s="";next}{s=s sprintf("%s",$0)}END{if(s)print s}'
 
 #rewrites improved stuff to original file for ease of file names
 cat new.fasta > echino_sequences.fasta
+
+#remove temporary file
+rm new.fasta
