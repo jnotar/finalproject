@@ -15,9 +15,10 @@ def draw_tree_inline(filename):
 
 #Function that draws picture file of a tree w/ matplot lib
 def draw_tree_png(filename):
-	tree = Phylo.read("{}.dnd".format(filename), "newick")
-	tree.rooted = True
-	Phylo.draw(tree)
+    tree = Phylo.read("{}.dnd".format(filename), "newick") #read the tree from the dnd file
+    tree.rooted = True
+    Phylo.draw(tree) #if we want to see the tree drawn
+    Phylo.write(tree, "{}.nwk".format(filename), "newick") #save file as a newick tree
 
 #run it for my echino sequences
 draw_tree_png("echino_sequences")
