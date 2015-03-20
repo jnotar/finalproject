@@ -2,6 +2,7 @@
 
 from __future__ import division
 
+import os
 import Bio
 from Bio.Align.Applications import ClustalwCommandline
 from Bio import AlignIO
