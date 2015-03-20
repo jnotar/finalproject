@@ -17,3 +17,5 @@ def align_seqs(filename):
     assert os.path.isfile(clustalw_exe), "Clustal W executable missing"
     stdout, stderr = clustalw_cline()
     align = AlignIO.read("{}.aln".format(filename), "clustal")
+
+align_seqs("echino_sequences")
